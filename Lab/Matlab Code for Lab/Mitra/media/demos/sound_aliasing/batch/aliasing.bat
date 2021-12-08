@@ -1,0 +1,2 @@
+cd ..
+matlab /r aliasing

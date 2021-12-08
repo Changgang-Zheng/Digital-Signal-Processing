@@ -1,0 +1,3 @@
+[autorun]
+SHELLEXECUTE=media/index.htm
+ICON=mh_logo.ico
